@@ -21,7 +21,7 @@ public class Koneksi {
                 // ganti sesuai username & password PostgreSQL kamu
                 String url = "jdbc:postgresql://localhost:5432/kasir_sakpore";
                 String user = "postgres";
-                String pass = "muha8420";  
+                String pass = "1234";
                 
                 conn = DriverManager.getConnection(url, user, pass);
             } catch (SQLException e) {
