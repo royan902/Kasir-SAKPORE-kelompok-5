@@ -6,7 +6,18 @@ APLIKASI DAN TOOLS YANG DIGUNAKAN :
 - Java netbeans IDE 20
 - JDK 22
 - Postgre SQL 13.21-2 / PG Admin 4
-- nama database : kasir_sakpore
+- device memadai
+
+pertunjuk pemaasangan :
+- instal aplikasi bentuk exe
+- pastikan versi jdk dan postgre sql sama / sesuai
+- buat database di postgre sql dengan nama :
+   - nama database : kasir_sakpore
+   - lalu export / backup databasenya melalui file sql yang ada
+   - pastikan database sudah benar
+- jalankan aplikasi
+   - peringatan : ketika aplikasi dijalankan mungkin ada bug dimana aplikasi sudaah login ke kasir / admin, untuk kembali ke halaman login cukup logout saja.
+
 
 daftar user untuk login :
  username : kasir 
