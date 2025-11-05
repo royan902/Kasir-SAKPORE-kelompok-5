@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\New folder\PROJEK\Kasir-SAKPORE-kelompok-5\aplikasi exe\sakpore\kasir sakpore kel 5\bin\Kasir_sakpore.jar</jar>
+  <outfile>D:\New folder\PROJEK\Kasir-SAKPORE-kelompok-5\aplikasi exe\sakpore\kasir sakpore kel 5.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\New folder\PROJEK\Kasir-SAKPORE-kelompok-5\aplikasi exe\sakpore\kasir sakpore kel 5\bin\download (1).ico</icon>
+  <singleInstance>
+    <mutexName>kasir sakpore kel 5</mutexName>
+    <windowTitle>kasir sakpore kel 5</windowTitle>
+  </singleInstance>
+  <classPath>
+    <mainClass>login.Main</mainClass>
+    <cp>lib/jcalendar-1.4.jar</cp>
+    <cp>lib/AbsoluteLayout.jar</cp>
+    <cp>lib/download%20(1).zip</cp>
+    <cp>lib/postgresql-42.7.7.jar</cp>
+    <cp>lib/postgresql-42.7.7.jar</cp>
+  </classPath>
+  <jre>
+    <path>C:\Program Files\Java\jdk-22</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion>23.0.0</maxVersion>
+  </jre>
+</launch4jConfig>
