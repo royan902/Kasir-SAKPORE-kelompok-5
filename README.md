@@ -31,7 +31,7 @@ daftar user untuk login :
 anggota kelompok dan peran :
 
 - lintang satrio : desain tampilan, pembuat laporan.
-- M.riski almadani : desain  tampilan, coding program aplikasi, pembuat laporan.
-- M.Royan : desain tampilan, semua coding program aplikasi dan database, pembuat laporan.
+- M.riski almadani : desain  tampilan, coding program aplikasi, pembuat laporan,.
+- M.Royan : desain tampilan, semua coding program aplikasi dan database, pembuat laporan, build aplikasi ke exe.
 - faiz naja : sedikit desain tampilan(kurang kontribusi).
 - rifka anikoh : sedikit desain tampilan (kurang berkontribusi).
